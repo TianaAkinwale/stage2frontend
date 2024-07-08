@@ -1,7 +1,7 @@
 // src/shop/ShopPage.jsx
 import Hero from './Hero';
 import ShopSection from './ShopSection';
-import BestSeller from './BestSeller';
+import BestSeller from './bestSeller';
 import Footer from './FooterS';
 
 const ShopPage = () => {

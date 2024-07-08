@@ -1,6 +1,6 @@
 // src/App.jsx
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import ShopPage from '../../shop/ShopPage';
+import ShopPage from "./components/shop/ShopPage";
 
 const App = () => {
   return (
